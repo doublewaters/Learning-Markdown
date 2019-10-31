@@ -104,8 +104,10 @@ $E=mc^2$
 
 这是公式块：
 $$
-e^{i\theta} = \cos \theta +i\sin \theta \
-e^z = 1 + \frac{z}{1!} + \frac{z^2}{2!} + \frac{z^3}{3!} + \cdots = \sum_{n=0}^{\infty}\frac{z^n}{n!}
+\left\{\begin{array}{l}{a_{1} x+b_{1} y+c_{1} z=d_{1}} \\ {a_{2} x+b_{2} y+c_{2} z=d_{2}} \\ {a_{3} x+b_{3} y+c_{3} z=d_{3}}\end{array}\right.
+$$
+$$
+\Gamma(z)=\int_{0}^{\infty} t^{z-1} e^{-t} d t
 $$
 
 ![公式图片](https://latex.codecogs.com/gif.latex?E=Mc^{2} "E=mc^2")
