@@ -132,4 +132,4 @@ _ 底线
 在文末使用[^1]:加入参考文献，注意要使用英文冒号，后面有无空格均可。`
 
 
-[^1]:这是一个参考文献。 
+[^1]:https://github.com/doublewaters/Learning-Markdown 
